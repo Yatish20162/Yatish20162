@@ -10,18 +10,20 @@
 
 ```yaml
 name       : Yatish Garg
-role       : Software Development Engineer @ UKG (Fortune 500)
+role       : Software Development Engineer
 location   : Noida, India
 education  : B.Tech CSE — IIIT Delhi (2020–2024)
 experience : 2 Years in Backend Engineering
+strengths  : ["System Design (LLD/HLD)", "Backend Engineering", "Competitive Programming"]
 ```
 
-- 🏢 Currently at **UKG** — architecting enterprise-grade microservices & distributed systems
-- 🔐 Led **Auth0 migration** for **500+ enterprise clients** with **zero downtime**
-- ⚡ Engineered systems handling **300K+ concurrent users** | Achieved **40% faster data retrieval**
+- 🧠 Strong in Low-Level & High-Level System Design — love breaking down complex systems and designing them from scratch
+- ☕ Java & Spring Boot are my primary weapons — building robust, production-grade backends is where I thrive
+- 🏆 CodeChef 4-Star (Rating 1835 · Global Rank 356 · Top 2%) · Codeforces Specialist (Dragon_Master) · Google Kick Start Top 10% globally
 - 🏆 Earned **6 Performance Awards** (2 Gold, 3 Silver, 1 Bronze) for technical excellence
-- 🎯 **CodeChef 4-Star** (Rating: 1835) | **500+ problems** solved across platforms
-- 🌱 Currently exploring **Agentic AI** & advanced distributed system patterns
+- 💡 500+ problems solved across Codeforces, CodeChef & LeetCode — strong grip on DP, Graphs, Greedy & Trees
+- 🗂️ Love building real systems from scratch — Distributed Filesystem, Payroll Systems, ML Pipelines — different stacks, same obsession with correctness
+- 🌱 Currently diving deep into Agentic AI, distributed consensus protocols & advanced system internals
 - 📫 Reach me at: **yatishcode@gmail.com**
 
 ---
