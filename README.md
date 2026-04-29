@@ -3,6 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Yatish+Garg+👋;Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+Scalable+Systems+%40+UKG;Competitive+Programmer+%7C+CodeChef+4⭐)](https://git.io/typing-svg)
 </div>
 
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatish-garg)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatishcode@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yatish20162)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yatish2002)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Dragon_Master)
+
+</div>
 ---
 
 ## 🧑‍💻 About Me
@@ -163,20 +174,6 @@ strengths  : ["System Design (LLD/HLD)", "Backend Engineering", "Competitive Pro
 | 🥉 **1× Bronze Medal** | UKG — Production-ready code with zero incidents |
 
 > *Recognized by senior leadership for independently resolving complex Auth0 migration challenges with zero production incidents.*
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatish-garg)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatishcode@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yatish20162)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yatish2002)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Dragon_Master)
-
-</div>
 
 ---
 
