@@ -2,11 +2,6 @@
 
 <!-- Typing SVG Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Yatish+Garg+👋;Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+Scalable+Systems+%40+UKG;Competitive+Programmer+%7C+CodeChef+4⭐)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=Yatish20162&label=Profile+Views&color=0e75b6&style=flat" alt="Yatish20162" />
-&nbsp;&nbsp;
-[![wakatime](https://wakatime.com/badge/user/Yatish20162.svg)](https://wakatime.com/@Yatish20162)
-
 </div>
 
 ---
@@ -70,70 +65,67 @@ experience : 2 Years in Backend Engineering
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
+🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
+🗂️ Enterprise Payroll Management System
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
-## 📊 GitHub Statistics
+🏛️ Microservices + JWT auth + RBAC (employee / manager / admin)
+⚡ 40% throughput boost via async RabbitMQ event-driven architecture
+🐳 Kubernetes auto-scaling → 99.5% uptime · 40% faster CI/CD
+✅ 95% code coverage — JUnit & Mockito · Full Swagger docs
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
+🌱 Tale Of Human Kind (Open Source)
+Show Image
+Show Image
+Show Image
+Show Image
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yatish20162&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatish20162&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+👥 NGO platform connecting mentors, donors & students
+💳 PCI-DSS compliant Razorpay integration + webhook handling
+📡 Real-time feed with WebSockets → 30% engagement increase
+🔐 JWT auth framework — 85% auth crash reduction
+⚡ Normalized MySQL schema — < 200ms average response time
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🤖 Fake Review Detection System
+Show Image
+Show Image
+Show Image
 
-<div align="center">
+🧠 End-to-end ML pipeline: BERT Transformers + LSTM ensemble
+🎯 92% accuracy · F1-score 0.89 on test dataset
+📊 TF-IDF · sentiment analysis · behavioral pattern recognition
+📈 15% accuracy gain over baseline via hyperparameter tuning
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yatish20162&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</td>
+<td width="50%" valign="top">
+🔐 Auth0 Migration (Production)
+Show Image
+Show Image
+Show Image
+Show Image
 
-</div>
+🏢 Migration framework for 500+ enterprise clients · team of 5+
+🚀 Zero downtime JWT-based deployment strategy
+⚡ Redis caching pagination → 40% faster data retrieval
+🛡️ Resolved 10+ critical prod defects · 99.9% uptime SLA
 
----
+</td>
+</tr>
+</table>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yatish20162&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Enterprise Payroll System](https://github-readme-stats.vercel.app/api/pin/?username=Yatish20162&repo=Payroll-Management-System&theme=tokyonight&hide_border=true)](https://github.com/Yatish20162)
-
-</div>
-
-### 🏗️ Enterprise Payroll Management System
-> **Java · Spring Boot · Docker · Kubernetes · RabbitMQ · JWT · JUnit**
-
-- 🏛️ Microservices architecture with **RBAC** (employee / manager / admin roles)
-- ⚡ **40% throughput improvement** via RabbitMQ async salary processing
-- 📦 Containerized with Docker + K8s auto-scaling → **99.5% uptime**
-- ✅ **95% code coverage** with JUnit & Mockito | Full Swagger docs
-
----
-
-### 🌍 Tale Of Human Kind — NGO Platform *(Open Source)*
-> **React.js · Django · MySQL · Redux · Razorpay API · WebSockets · JWT**
-
-- 👥 Full-stack collaborative platform connecting mentors, donors, and students
-- 💳 Razorpay payment gateway with **PCI-DSS compliance** & webhook handling
-- ⚡ Real-time social feed with WebSockets → **30% engagement increase** in month 1
-- 🔐 JWT auth with role-based permissions, **85% crash reduction**
-
----
-
-### 🤖 Fake Review Detection System
-> **Python · BERT · LSTM · NLP · scikit-learn · TensorFlow**
-
-- 🧠 End-to-end ML pipeline combining **BERT transformers + LSTM neural networks**
-- 🎯 **92% accuracy** with 0.89 F1-score on test dataset
-- 📈 **15% accuracy improvement** over baseline via ensemble techniques & hyperparameter tuning
-
----
 
 ## 📈 Competitive Programming
 
