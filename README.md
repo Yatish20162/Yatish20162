@@ -105,7 +105,7 @@ strengths  : ["System Design (LLD/HLD)", "Backend Engineering", "Competitive Pro
 
 ---
 
-### 🌱 03 &nbsp;—&nbsp; Tale Of Human Kind &nbsp;*(Open Source)*
+### 🌱 03 &nbsp;—&nbsp; Tale Of Human Kind &nbsp;
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 
